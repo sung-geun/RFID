@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\Adafruit_ILI9341-master",
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master",
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\arduinoWebSockets-master\\src",
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\WiFiManager",
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\ArduinoJson\\src",
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\Z_UpdateChk",
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\MFRC522\\src",
+                "C:\\Users\\josunggeun\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**",
+                "C:\\Users\\josunggeun\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\ESPAsyncTCP-master\\src"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
