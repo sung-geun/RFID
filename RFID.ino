@@ -18,7 +18,7 @@
 
 /**************************************1. 와이파이 설정 변수*************************************************/
 String devIP;               //IP담는 변수
-WiFiManager wifiManager;  //testtt
+WiFiManager wifiManager;  //testttㅅㅅㅅㅅㅅㅅ
  
 #pragma endregion  
 #pragma region 2. 펌웨어 자동 업데이트 설정 변수
