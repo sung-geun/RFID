@@ -12,7 +12,9 @@
                 "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\MFRC522\\src",
                 "C:\\Users\\josunggeun\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**",
                 "C:\\Users\\josunggeun\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
-                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\ESPAsyncTCP-master\\src"
+                "C:\\Users\\josunggeun\\Documents\\Arduino\\libraries\\ESPAsyncTCP-master\\src",
+                "C:\\Users\\tmpl.KV1015710\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**",
+                "C:\\Users\\tmpl.KV1015710\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "msvc-x64",
